@@ -1,0 +1,1 @@
+This project is a data driven application that will utilize JSON, JavaScript, and data from a movie database.
