@@ -1,0 +1,33 @@
+{
+    "Movies": [
+        {
+            "id":1,
+            "title":"Knives Out",
+            "release-date":"11/27/2019",
+            "runtime":130,
+            "image":"https://i.etsystatic.com/19715870/r/il/c3db98/2013390462/il_1588xN.2013390462_10e8.jpg"
+        },
+        {
+            "id":2,
+            "title":"Parasite",
+            "release-date":"10/11/2019",
+            "runtime":132,
+            "image":"https://i.ebayimg.com/images/g/tbwAAOSwhZhdwNKn/s-l1600.jpg"
+        },
+        {
+            "id":3,
+            "title":"Joker",
+            "release-date":"10/4/2019",
+            "runtime":122,
+            "image":"https://i.ebayimg.com/images/g/9I0AAOSwxKBdZtry/s-l1600.jpg"
+        },
+        {
+            "id":4,
+            "title":"Ready Player One",
+            "release-date":"3/29/2018",
+            "runtime":139,
+            "image":"https://cdn.shopify.com/s/files/1/1878/3879/products/N4498_1000x.jpg"
+        }
+
+    ]
+}
